@@ -9,7 +9,7 @@
 
 import { setGlobalOptions } from "firebase-functions";
 import { onRequest } from "firebase-functions/https";
-import quizApp from "./controllers/eself.controller";
+import quizApp from "./controllers/quiz.controller";
 
 // Start writing functions
 // https://firebase.google.com/docs/functions/typescript
